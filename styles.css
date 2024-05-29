@@ -1,8 +1,8 @@
 :root {
-    --branco-principal: hsl(0, 100%, 64%);
-    --cinza-secundario: #ff0000;
+    --branco-principal: hsl(0, 100%, 51%);
+    --cinza-secundario: #71f07b;
     --botao-azul: hwb(234 0% 0% / 0.849);
-    --cor-de-fundo: #00030C;
+    --cor-de-fundo: #00040e;
     --fonte-principal: 'Inter';
 }
 
